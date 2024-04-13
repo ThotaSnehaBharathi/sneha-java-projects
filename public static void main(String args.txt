@@ -1,0 +1,7 @@
+public static void main(String args[]){
+//Using try-with-resourses
+try(FileInputStream fileInputStream = new FileInputStream("/java7-new-features/src/abc.txt"){
+String msg = "Welcome to java";
+byte byteArray[] = msg.getBytes();//converting string into byte array
+fileInputStream.write(byteArray);
+

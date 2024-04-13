@@ -1,0 +1,13 @@
+public static void main(String args[]){
+String s ="hello weuii java";
+try{
+FileOutputStream fout=new FlieOutputStream
+byte[] b = s.getbytes();
+fout.write(b);
+fout.flush();
+fout.close();
+System.out.println("success...");
+}catch(Exception e){System.out.println(e);
+}
+}
+}

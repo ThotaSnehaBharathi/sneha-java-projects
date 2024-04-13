@@ -1,0 +1,9 @@
+difference between collection and collections?
+self learning
+develop a program to perform serialization and deserialization?
+why we need default and abstract methods?
+write a program to append string data into a file ?
+write a program to clone an object using clonable interface?
+if euals ()method is not there in string buffer can i check the contents of the string?
+practice programs : even or odd ,prime numbers ,
+amrstrong num, pailndrome,fibanocci,perfect,oops programs

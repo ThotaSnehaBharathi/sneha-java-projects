@@ -1,0 +1,10 @@
+class Main
+{
+int x=5;
+void show() 10 10 5 5 10 5 5 10 error blank
+{
+int x=10;
+system.out.println(x);
+system.out.println(x);
+}
+public static void main(String[] args)
